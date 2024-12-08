@@ -3,6 +3,7 @@
 - **GitHub**: [https://github.com/HydraLabs-beta/panel](https://github.com/HydraLabs-beta/panel)
 - **CodeName**: Daulan Con
 - **Maintained By**: ma4z
+
   <img src="https://media.discordapp.net/attachments/1312439085398491218/1314940927172808748/181263366.png?ex=6756426b&is=6754f0eb&hm=40c7473f6369339e7efe40fd78f09d228a0c6bc10d7214b7041130a4b49f972f&=&format=webp&quality=lossless&width=783&height=240"></img>
 
 ## HydraSedar
